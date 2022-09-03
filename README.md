@@ -1,5 +1,7 @@
 # Let's code!! :smile: :computer: :musical_score:
 
+Let's discover amazing music
+
 ### Reggaeton
 
 ### Salsa
@@ -12,4 +14,4 @@
 
 ## Contributors
 
-Feel free to create a PR to add a song to the playlist 
+Feel free to create PRs to add songs 
