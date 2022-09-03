@@ -1,9 +1,5 @@
 # Let's code!! :smile: :computer: :musical_score:
 
-## Rules
-
-Feel free to create a PR to add a song to the playlist 
-
 ### Reggaeton
 
 ### Salsa
@@ -13,3 +9,7 @@ Feel free to create a PR to add a song to the playlist
 ### R&B
 
 ### Pop
+
+## Contributors
+
+Feel free to create a PR to add a song to the playlist 
